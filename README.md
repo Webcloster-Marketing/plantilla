@@ -2,7 +2,7 @@
 
 ## Tech Stack
 
-- [Vue.js](https://vuejs.org/)
+- [Vite Js](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
 
 ## Project setup
